@@ -1,6 +1,3 @@
-# dssi-final
-Reproduction of The effect of paid maternity leave on early childhood
-
 # Maternity Leave Policy Analysis
 
 This repository contains code for analyzing the impact of maternity leave policies on child health outcomes across 37 countries. The analysis combines data from the Demographic and Health Surveys (DHS), maternity leave policy information, and country-level economic indicators.
