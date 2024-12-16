@@ -38,12 +38,9 @@ The analysis utilizes three main data sources:
 │   ├── 02_data_merging.do      # Data integration
 │   ├── 03_analysis.do          # Statistical analysis
 │   └── 04_visualizations.R     # Results visualization
-├── data/
-│   └── mat_leave_country_year.dta  # Maternity leave policy data
 ├── output/
 │   └── tables/                 # Generated tables and figures
-└── docs/
-    └── technical_appendix.md   # Detailed technical documentation
+
 ```
 
 ## Setup Instructions
