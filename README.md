@@ -34,10 +34,10 @@ The analysis utilizes three main data sources:
 
 ```
 ├── code/
-│   ├── 01_data_cleaning.do     # Data cleaning and processing
-│   ├── 02_data_merging.do      # Data integration
-│   ├── 03_analysis.do          # Statistical analysis
-│   └── 04_visualizations.R     # Results visualization
+│   ├── data_cleaning.do     # Data cleaning and processing
+│   ├── data_merging.do      # Data integration
+│   ├── analysis.do          # Statistical analysis
+│   └──visualizations.R     # Results visualization
 ├── output/
 │   └── tables/                 # Generated tables and figures
 
