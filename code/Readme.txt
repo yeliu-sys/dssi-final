@@ -11,24 +11,24 @@ DATA PREPARATION:
 
 EXECUTION ORDER AND INSTRUCTIONS:
 
-1. Data Cleaning (data_cleaning.do)
+1. Data Cleaning (data_cleaning.do) in Stata
 - Processes DHS survey data
 - Creates temporary files for each data type (HW, IR, WI)
 - Check log file for any processing errors
 
-2. Data Merging (data_merging.do)
+2. Data Merging (data_merging.do) in Stata
 - Creates country crosswalk
 - Processes maternity leave data
 - Merges with World Bank indicators
 - Creates final_merged_df.dta
 
-3. Statistical Analysis (analysis.do)
+3. Statistical Analysis (analysis.do) in Stata
 - Creates analysis variables
 - Runs three regression models
 - Generates clustered standard errors
 - Saves results for visualization
 
-4. Table Creation (visualizations.R)
+4. Table Creation (visualizations.R) in R
 - Creates formatted results table
 - Outputs HTML and PDF versions
 - Check table formatting in output files
