@@ -33,7 +33,7 @@ The analysis utilizes three main data sources:
 ## Repository Structure
 
 ```
-├── code/
+├── reproducibility_code/
 │   ├── data_cleaning.do     # Data cleaning and processing
 │   ├── data_merging.do      # Data integration
 │   ├── analysis.do          # Statistical analysis
