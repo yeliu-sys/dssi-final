@@ -37,7 +37,7 @@ The analysis utilizes three main data sources:
 │   ├── data_cleaning.do     # Data cleaning and processing
 │   ├── data_merging.do      # Data integration
 │   ├── analysis.do          # Statistical analysis
-│   └──visualizations.R     # Results visualization
+│   └── visualizations.R     # Results visualization
 ├── output/
 │   └── tables/                 # Generated tables and figures
 
